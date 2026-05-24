@@ -19,7 +19,7 @@ class MedicoTest {
                 new NombreCompleto("Carlos Ruiz"),
                 new Direccion("Calle 10"),
                 new Telefono("3001234567"),
-                new Nit("1234567"),
+                new Nit("123456"),
                 new NumeroSeguridadSocial("999"),
                 "COL123",
                 CategoriaMedico.TITULAR

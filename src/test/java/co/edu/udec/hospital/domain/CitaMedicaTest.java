@@ -21,7 +21,7 @@ class CitaMedicaTest {
                 new NombreCompleto("Juan"),
                 new Direccion("Centro"),
                 new Telefono("3001234567"),
-                new Nit("112"),
+                new Nit("111"),
                 new NumeroSeguridadSocial("222"),
                 "COL1",
                 CategoriaMedico.TITULAR

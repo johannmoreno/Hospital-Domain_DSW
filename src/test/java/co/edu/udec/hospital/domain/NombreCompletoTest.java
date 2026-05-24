@@ -23,6 +23,6 @@ class NombreCompletoTest {
                 new NombreCompleto("")
         )
                 .isInstanceOf(IllegalArgumentException.class)
-                .hasMessageContaining("No puede estar vacío");
+                .hasMessageContaining("no puede estar vacío");
     }
 }
